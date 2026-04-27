@@ -55,14 +55,14 @@ contact: unaiarnau@tuta.io
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 ### 🤖 IA & Automatizacion
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Openclaw](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Opencode](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🔧 Herramientas
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
@@ -95,7 +95,7 @@ contact: unaiarnau@tuta.io
 
 - 🔭 **Trabajando en:** Automatizacion completa de mail marketing (leads → mails → agenda → notificaciones)
 - 🌱 **Aprendiendo:** Git, GitHub, Python, Docker
-- 🤖 **Explorando:** IA local con OpenClaw, modelos LLM en mi Home Server
+- 🤖 **Explorando:** IA Agentica con OpenClaw/Opencode, buscando implementar LLM en mi homelab
 - 🎯 **Objetivo:** Encontrar el nicho de IT que mas me apasione
 - 💡 **Abierto a:** Colaboraciones, proyectos open-source y aprender de la comunidad
 
@@ -116,8 +116,8 @@ contact: unaiarnau@tuta.io
 
 - 🎵 La musica me acompaña mientras programo
 - 🏃 El deporte me ayuda a despejar la mente (¡y a aguantar bugs!)
-- 🏠 Tengo un Home Server donde experimento con todo tipo de tecnologias
-- 🤖 He montado asistentes de IA para una empresa siendo estudiante en practicas
+- 🏠 Tengo un Home Lab donde experimento con todo tipo de tecnologias
+- 🤖 He montado agentes de IA para una empresa siendo estudiante en practicas
 - 🌍 Soy de Tarragona y aprendo IT a mi ritmo, sin prisa pero sin pausa
 
 ---
