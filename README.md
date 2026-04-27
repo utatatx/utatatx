@@ -55,8 +55,8 @@ contact: unaiarnau@tuta.io
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 ### 🤖 IA & Automatizacion
-![Openclaw](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Opencode](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-2EA44F?style=for-the-badge&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-7C3AED?style=for-the-badge&logoColor=white)
 [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)
 
 ### 🔧 Herramientas
