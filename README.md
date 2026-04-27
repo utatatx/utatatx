@@ -12,10 +12,10 @@
 
 ```yaml
 name: Unai Arnau
-location: Tarragona, España 🇪��
+location: Tarragona, España
 education:
   - done: CFGM Sistemas Microinformaticos y Redes ✅
-  - next: CFGS Administracion de Sistemas Informaticos en Red ��
+  - next: CFGS Administracion de Sistemas Informaticos en Red 
 currently_learning: [Git, GitHub, Python, Docker]
 experience_level: Principiante con muchas ganas 🔥
 home_server: true
@@ -29,10 +29,10 @@ contact: unaiarnau@tuta.io
 
 <div align="center">
 
-| 🤖 Sistema de Inteligencia Tecnologica Personal | 📧 Automatizacion de Mail Marketing |
+| 🤖 Homelab | 📧 Automatizacion de Mail Marketing |
 |:---:|:---:|
-| Sistema automatico que centraliza y procesa informacion tecnologica personal con ayuda de IA | Pipeline completo: captacion de leads → auto mails → agenda de llamadas → notificaciones automaticas |
-| `Python` `IA` `Automatizacion` | `Marketing` `Automatizacion` `Notificaciones` |
+| Laboratorio casero donde practico Redes (VPNs, NAT, Reverse proxy, DNS, Redundancia ...), Linux, Docker, Git y bash/python scripting. | Pipeline completo: captacion de leads → Investigación de perfil y personalización de mail → auto mails → auto agenda de llamadas → notificaciones automaticas |
+| `Docker` `Networking` `Linux` | `Marketing` `Automatizacion` `Notificaciones` |
 
 </div>
 
