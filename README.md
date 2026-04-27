@@ -68,29 +68,6 @@ contact: unaiarnau@tuta.io
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=utatatx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utatatx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=utatatx&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%" />
-
-</div>
-
----
-
-## 🏆 Trofeos GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=utatatx&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
-
-</div>
-
----
-
 ## 🌱 Actualmente...
 
 - 🔭 **Trabajando en:** Automatizacion completa de mail marketing (leads → mails → agenda → notificaciones)
