@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hola,%20soy%20Unai!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Sysadmin%20%7C%20Tech%20Explorer%20%7C%20Automatizador&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hola,%20soy%20Unai!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Agentic%20AI%20Developer%20%7C%20Tech%20Explorer%20%7C%20Homelab%20Enthusiast&descAlignY=55&descSize=20" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudiante+de+ASIR+🎓;Aprendiendo+Git+%2B+Python+%2B+Docker+🐳;Home+Server+%26+AI+Automation+🤖;Siempre+aprendiendo+algo+nuevo+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudiante+SMR+en+Practicas+🎓;Aprendiendo+Git+%2B+Python+%2B+Docker+🐳;Home+Server+%26+AI+Automation+🤖;Siempre+aprendiendo+algo+nuevo+🚀)](https://git.io/typing-svg)
 
 </div>
 
